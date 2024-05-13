@@ -1,3 +1,0 @@
-Na computação existem diferentes paradigmas de programação os quais proporcionam diferentes visões para a construção de algoritmos. 
-
-Inicialmente, O paradigma estruturado foi amplamente utilizado nas décadas de 1960 e 1970, sendo aplicado em linguagens como Fortran, COBOL, Pascal e C. No entanto, com o tempo, foram surgindo limitações na capacidade de lidar com programas complexos e de grande escala. Isso levou ao desenvolvimento de paradigmas de programação mais avançados, como a programação orientada a objetos e a programação funcional, que oferecem recursos mais poderosos para lidar com a complexidade do software moderno
